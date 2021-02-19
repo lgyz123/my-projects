@@ -3,3 +3,4 @@ Use jupyter to run ipynb first. First part is to generate inital positions of mo
 The results will be saved in output.npy
 Use blender for visulization
 Enjoy! 
+A video demonstration is MD.mkv
